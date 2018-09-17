@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">codingClinic</string>
+    <string name="buttonName">CLICK</string>
+    <string name="userName">SNOW</string>
 </resources>
