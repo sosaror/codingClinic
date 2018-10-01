@@ -31,6 +31,16 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/text" />
 
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="100dp"
+        android:layout_height="60dp"
+
+        android:text="TO NEXT"
+        app:layout_constraintBottom_toTopOf="@+id/button"
+        app:layout_constraintHorizontal_bias="0"
+        tools:layout_editor_absoluteX="142dp" />
+
     <ImageView
         android:src="@drawable/lena"
         android:id="@+id/imageView"
